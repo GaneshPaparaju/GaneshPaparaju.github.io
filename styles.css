@@ -55,6 +55,18 @@ h2 {
     color: #0077b6;
 }
 
+/* About Section Enhancements */
+#about p {
+    line-height: 1.6;
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+#about strong {
+    color: #0077b6;
+    font-weight: 600;
+}
+
 /* Project Grid */
 .project-grid {
     display: grid;
