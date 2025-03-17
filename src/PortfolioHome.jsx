@@ -1,8 +1,10 @@
+import React from 'react'
+
 export default function PortfolioHome() {
   return (
-    <div>
-      <h1>Hello, this is Ganesh's Portfolio!</h1>
-      <p>This is a working React Vite page deployed on GitHub Pages.</p>
+    <div style={{ textAlign: 'center', marginTop: '50px' }}>
+      <h1>Hello! I'm Ganesh 👋</h1>
+      <p>Welcome to my portfolio website!</p>
     </div>
-  );
+  )
 }
