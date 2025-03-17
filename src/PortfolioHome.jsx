@@ -1,10 +1,8 @@
-import React from 'react';
-
 export default function PortfolioHome() {
   return (
-    <div style={{ padding: '2rem', fontFamily: 'Arial' }}>
-      <h1>Hello, I'm Ganesh 👋</h1>
-      <p>Welcome to my portfolio site built with React + Vite + GitHub Pages!</p>
+    <div>
+      <h1>Hello, this is Ganesh's Portfolio!</h1>
+      <p>This is a working React Vite page deployed on GitHub Pages.</p>
     </div>
   );
 }
